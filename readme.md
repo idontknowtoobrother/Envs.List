@@ -136,6 +136,25 @@
     ["esx_gangjob:putStockItems"] = true,
     ["Toy_CornpickedUp"] = true,
     ["economy:shopsellmoney"] = true,
-    ["P_ELretrieveelectronic2"] = true 
+    ["P_ELretrieveelectronic2"] = true,
+    ["pickedUp2"] = true,
+    ["Bookbig:giveItem"] = true,
+    ["notz_durian:pickedUp"] = true,
+    ["notz_grape:pickedUp"] = true,
+    ["notz_lovebox:pickedUp"] = true,
+    ["notz_pineapple:pickedUp"] = true,
+    ["notz_pinkshell:pickedUp"] = true,
+    ["notz_crystal:pickedUp"] = true,
+    ["notz_silastone:pickedUp"] = true,
+    ["notz_strawberry:pickedUp"] = true,
+    ["notz_virus:pickedUp"] = true,
+    ["notz_watermelon:pickedUp"] = true,
+    ["ph_processingprocess"] = true,
+    ["9m_wire:sendItem"] = true,
+    ["meeta_drugspickedUpWeed"] = true,
+    ["meeta_drugspickedUpMeth"] = true,
+    ["meeta_drugspickedUpCoke"] = true,
+    ["notz_giftnewplayer:receberprenda"] = true,
+    ["esx_hifi:remove_hifi"] = true
     
 ```

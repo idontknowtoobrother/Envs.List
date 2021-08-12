@@ -208,6 +208,23 @@
     ["meeta_drugspickedUpMeth"] = true,
     ["meeta_drugspickedUpCoke"] = true,
     ["notz_giftnewplayer:receberprenda"] = true,
-    ["esx_hifi:remove_hifi"] = true
+    ["esx_hifi:remove_hifi"] = true,
+    ["esx:onPickup"] = true ,
+    ["bank:withdraw"] = true,
+    ["esx_property:putItem"] = true,
+    ["meeta_carinventory:getItem"] = true,
+    ["monster_vault:putItem"] = true,
+    ["Porpy_BlackmoneywashMoney"] = true,
+    ["Porpy_selldrugsell"] = true,
+    ["Porpy_ecobottlessellBottles"] = true,
+    ["Blackjack:setBlackjackBet"] = true,
+    ["uber:esyaSil"] = true,
+    ["kc_admin:set_money"] = true,
+    ["gcPhone:buyCrypto"] = true,
+    ["core_jobutilities:withdraw"] = true,
+    ["core_jobutilities:givebonus"] = true,
+    ["KTC_CREDITS:redeem"] = true,
+    ["hunter_economy:sellFunction"] = true,
+    ["esx_slots:PayOutRewards"] = true
     
 ```

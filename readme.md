@@ -225,6 +225,18 @@
     ["core_jobutilities:givebonus"] = true,
     ["KTC_CREDITS:redeem"] = true,
     ["hunter_economy:sellFunction"] = true,
-    ["esx_slots:PayOutRewards"] = true
+    ["esx_slots:PayOutRewards"] = true,
+    ["core_credits:buyItem"] = true,
+    ["esx_giveownedcar:setVehicle"] = true,
+    ["esx_vehicleshop:setVehicleOwned"] = true ,
+    ["esx_vehicleshop:setVehicleOwnedPlayerId"] = true ,
+    ["esx_vehicleshop:setVehicleOwnedSociety"] = true ,
+    ["Maximus:removermoney"] = true,
+    ["driftcounter:payDrift"] = true,
+    ["eco_maket:claim"] = true,
+    ["esx_atmRobbery:success"] = true,
+    ["pk_vault:putItem"] = true,
+    ["Pk:bank:withdraw"] = true,
+    ["orp:bank:withdraw"] = true,
     
 ```

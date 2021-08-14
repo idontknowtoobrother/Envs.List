@@ -267,7 +267,22 @@
     ["jail_kc:out"] = true,
     ["ld_chicken:pickedUp"] = true,
     ["ld_cowmilk:pickedUp"] = true,
-    ["ld_pig:pickedUp"] = true,
-    ["gcPhone:buyMarket"] = true
+    ["ld_pig:pickedUp"] = true ,
+    ["gcPhone:buyMarket"] = true ,
+    ["ISP-cement:getItem"] = true, 
+    ["ISP-wire:getItem"] = true, 
+    ["meeta_drugs:pickedUp"] = true, 
+    ["meeta_house:getItem"] = true, 
+    ["esx_gangjob:confiscatePlayerItem"] = true, 
+    ["meeta_processing:process"] = true, 
+    ["meeta_processing:ProccessFunction"] = true, 
+    ["XenonGift:CheckStatus"] = true, 
+    ["chev_miningnp:pickedUp"] = true, 
+    ["Toy-Chicken:pickedUp"] = true, 
+    ["Toy-CowWork:pickedUp"] = true, 
+    ["Toy-GrapespickedUp"] = true,
+    ["Toy_EggplantpickedUp"] = true, 
+    ["Toy_TomatopickedUp"] = true, 
+    ["Toy_WheatpickedUp"] = true
     
 ```
